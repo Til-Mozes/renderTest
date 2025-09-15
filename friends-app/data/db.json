@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Friend": 3,
+    "Address": 2
+  },
+  "models": {
+    "Friend": {
+      "1": "{\"firstname\":\"Lukas\",\"lastname\":\"McKinney\",\"id\":1}",
+      "2": "{\"firstname\":\"til\",\"lastname\":\"mozes\",\"id\":2}"
+    },
+    "Address": {
+      "1": "{\"city\":\"Schwalmtal\",\"postcode\":41366,\"street\":\"Printzenhof\",\"house_number\":\"9\",\"friendId\":1,\"additionalProp1\":{},\"id\":1}"
+    }
+  }
+}
